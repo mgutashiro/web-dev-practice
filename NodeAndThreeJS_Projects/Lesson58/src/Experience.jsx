@@ -157,7 +157,7 @@ export default function Experience()
             } }
             environment="sunset"
             preset="portrait"
-            intensity={ 2 }
+            intensity={ envMapIntensity }
         >
             <mesh castShadow position-y={ 1 } position-x={ - 2 }>
                 <sphereGeometry />
