@@ -50,7 +50,7 @@ Highly Reccommend Course, Bruno is Awesome!
 
 Certificate of Completion
 
-<img 
+<img
   src="https://github.com/user-attachments/assets/21809bbf-e6cb-4d2d-851e-77daa22fca7a"
   width="700"
   style="display:block; margin:auto;"
